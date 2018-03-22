@@ -13,3 +13,5 @@ This project fits on this category. The target is to design and prototype a sign
 The system is composed by a microcontroller especially designed to be easily sewn to the clothes, and an accelerometer placed in the wrist and connected to it, capturing the movements of the arm. The system, by using an algorithm, will be able to recognize the gestures and act over the LEDs (light-emitting diodes) that form the signalling system.
 
 These indicators will point the direction towards the cyclist wants to turn, according to the movement of his arm.
+
+More at https://idus.us.es/xmlui/handle/11441/52775

@@ -1,4 +1,4 @@
-# Textile Electronic Signaling System for Cycling by Gesture Recognition
+# Textile Electronic Signalling System for Cycling by Gesture Recognition
 
 # Abstract
 
@@ -8,8 +8,8 @@ Nowadays the inclusion of these devices in places where previously was unthinkab
 A recent field of application of these devices is the textile one. The result of the mixture between technology and clothes is called “wearables”.
 
 
-This project fits on this category. The target is to design and prototype a signaling textile electronic system for cycling. Its operation is based on the reconnaissance of gestures, captured using an accelerometer.
+This project fits on this category. The target is to design and prototype a signalling textile electronic system for cycling. Its operation is based on gestures recognition, captured using an accelerometer.
 
-The system is composed by a microcontroller especially designed to be easily sewn to the clothes, and an accelerometer placed in the wrist and connected to it, capturing the movements of the arm. The system, by using an algorithm, will be able to recognize the gestures and act over the LEDs (light-emitting diodes) that form the signaling system.
+The system is composed by a microcontroller especially designed to be easily sewn to the clothes, and an accelerometer placed in the wrist and connected to it, capturing the movements of the arm. The system, by using an algorithm, will be able to recognize the gestures and act over the LEDs (light-emitting diodes) that form the signalling system.
 
 These indicators will point the direction towards the cyclist wants to turn, according to the movement of his arm.
